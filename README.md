@@ -1,44 +1,44 @@
 # Portfolio of my practical tasks
 # Course curriculum
 
-      • Fundamental of Testing
+      -Fundamental of Testing
 
-      • Testing during Software Development Life Cycle
+      -Testing during Software Development Life Cycle
 
-      • Defect Management Process/Testing Documentation
-
-      • Test Case Development
-
-      • Workshop: Real project testing, create bugs and design test cases
-
-      • Static Testing Technique
-
-      • Black Box Testing Techniques
-
-      • White Box Testing Technique
-
-      • Test Management and Control/Test Estimation
+      - Defect Management Process/Testing Documentation
       
-      • Mobile testing (Android & IOS)
+      - Test Case Development
 
-      • Agile methodology (Scrum/Kanban)
+      - Workshop: Real project testing, create bugs and design test cases
 
-      • Database testing (SQL)
+      - Static Testing Technique
 
-      • Branch Management (Git/GitHub)
+      - Black Box Testing Techniques
 
-      • Client-Server Overview (TCP/IP Model)
+      - White Box Testing Technique
 
-      • API testing with Postman
+      - Test Management and Control/Test Estimation
+      
+      - Mobile testing (Android & IOS)
 
-      • Performance testing with Jmeter
+      - Agile methodology (Scrum/Kanban)
 
-      • Workshop: API and Performance
+      - Database testing (SQL)
 
-      • Automation testing, Framework introduction
+      - Branch Management (Git/GitHub)
 
-      • Python/Selenium introduction, setup
+      - Client-Server Overview (TCP/IP Model)
 
-      • Automate manual sample tests with Python + Selenium
+      - API testing with Postman
 
-      • Pytest framework overview, create test result Report
+      - Performance testing with Jmeter
+
+      - Workshop: API and Performance
+
+      - Automation testing, Framework introduction
+
+      - Python/Selenium introduction, setup
+
+      - Automate manual sample tests with Python + Selenium
+
+      - Pytest framework overview, create test result Report
