@@ -1,5 +1,5 @@
-# Portfolio-of-my-practical-tasks
-This Portfolio is a compilation of the practical tasks performed during the joint training course “Software Testing: Big Picture” organized by AGBU “CODER WOMEN” program, QWALLITY and QUICK START.
+# Portfolio of my practical tasks
+Course curriculum
 
       • Fundamental of Testing
 
@@ -17,7 +17,9 @@ This Portfolio is a compilation of the practical tasks performed during the join
 
       • White Box Testing Technique
 
-      • Test Management and Control/Test Estimation Mobile testing (Android & IOS)
+      • Test Management and Control/Test Estimation
+      
+      • Mobile testing (Android & IOS)
 
       • Agile methodology (Scrum/Kanban)
 
