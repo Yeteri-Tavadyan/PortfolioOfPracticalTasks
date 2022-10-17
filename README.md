@@ -1,15 +1,11 @@
 # Portfolio of my practical tasks
 # Course curriculum
 
-      -Fundamental of Testing
-
-      -Testing during Software Development Life Cycle
-
-      - Defect Management Process/Testing Documentation
-      
-      - Test Case Development
-
-      - Workshop: Real project testing, create bugs and design test cases
+-Fundamental of Testing
+-Testing during Software Development Life Cycle
+- Defect Management Process/Testing Documentation
+- Test Case Development
+- Workshop: Real project testing, create bugs and design test cases
 
       - Static Testing Technique
 
