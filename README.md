@@ -1,5 +1,5 @@
 # Portfolio of my practical tasks
-#Course curriculum
+# Course curriculum
 
       • Fundamental of Testing
 
